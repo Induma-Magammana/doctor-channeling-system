@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logo-ste.jpg') }}" alt="Logo" width="120px" height="20px">
